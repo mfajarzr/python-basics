@@ -1,3 +1,4 @@
+# learning variables
 # Variables = a container of value
 
 # string = It could be alphabets, numbers like 1234567890 and symbols
