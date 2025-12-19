@@ -5,7 +5,7 @@
 # 4. f-String
 # 5. Data that should not be used for calculation
 
-# Example:
+# Example: Postal code directory
 
 print("Welcome to Makassar postal code directory for Subdistricts Tamalate")
 
