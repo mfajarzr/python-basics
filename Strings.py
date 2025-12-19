@@ -5,6 +5,8 @@
 # 4. f-String
 # 5. Data that should not be used for calculation
 
+# Example:
+
 print("Welcome to Makassar postal code directory for Subdistricts Tamalate")
 
 name = input("\nPlease enter your name: ")
